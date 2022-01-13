@@ -2,12 +2,15 @@
 testcase1
 
 ### Summary
-Test project switching button on the home screen
+summary1
 
 ### Precondition
-
+precondition1
 
 ### Step
 | アクション | 期待結果 |
 |---|---|
-| Click the Test Project Switch button. | The import of the test project and the test project list are displayed. |
+| action1-1 | result1-1 |
+| action1-2 | result1-2 |
+| action1-3 | result1-3 |
+| action1-4 | result1-4 |
